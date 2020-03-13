@@ -1,0 +1,8 @@
+.now {
+    background-color: gold;
+    width: 150px;
+    height: 30px;
+    border: 1px solid goldenrod;
+    border-radius: 5px;
+    cursor: pointer;
+}
